@@ -7,7 +7,7 @@
   
   [![](https://github-readme-stats.vercel.app/api/pin/?username=danistefanovic&repo=build-your-own-x)](https://github.com/danistefanovic/build-your-own-x)
   
-  [![](https://github-readme-stats.vercel.app/api/pin/?username=mre&repo=https://github.com/mre/the-coding-interview)](https://github.com/mre/the-coding-interview)
+  [![](https://github-readme-stats.vercel.app/api/pin/?username=mre&repo=the-coding-interview)](https://github.com/mre/the-coding-interview)
 
   [![](https://github-readme-stats.vercel.app/api/pin/?username=se7en5h6&repo=awesome-java)](https://github.com/se7en5h6/awesome-java)
 
