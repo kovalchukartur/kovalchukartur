@@ -29,7 +29,7 @@
   
   [![](https://github-readme-stats.vercel.app/api/pin/?username=servicemeshinterface&repo=smi-spec)](https://github.com/servicemeshinterface/smi-spec)
   
-  [![](https://github-readme-stats.vercel.app/api/pin/?username=se7en5h6&repo=ShedLock)](https://github.com/se7en5h6/ShedLock)
+  [![](https://github-readme-stats.vercel.app/api/pin/?username=ContainerSolutions&repo=k8s-deployment-strategies)](https://github.com/ContainerSolutions/k8s-deployment-strategies)
   
   [![](https://github-readme-stats.vercel.app/api/pin/?username=se7en5h6&repo=ShedLock)](https://github.com/se7en5h6/ShedLock)
   
