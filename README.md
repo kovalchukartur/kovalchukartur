@@ -16,8 +16,3 @@
 [![https://github.com/se7en5h6/awesome-java](https://github-readme-stats.vercel.app/api/pin/?username=se7en5h6&repo=awesome-java)](https://github.com/se7en5h6/awesome-java)
   
 </details>
-
-<details>
-  <summary>Lifehack</summary>
-  1. Add profile README - https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/managing-your-profile-readme
-</details>
