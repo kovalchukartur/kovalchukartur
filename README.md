@@ -6,8 +6,8 @@
 
 [![https://github.com/se7en5h6/java-design-patterns](https://github-readme-stats.vercel.app/api/pin/?username=se7en5h6&repo=java-design-patterns)](https://github.com/se7en5h6/java-design-patterns)
 
-
-[![https://github.com/se7en5h6/awesome-java](https://github-readme-stats.vercel.app/api/pin/?username=se7en5h6&repo=awesome-java)](https://github.com/se7en5h6/awesome-java)        
+[![https://github.com/se7en5h6/spring-data-jpa-audit-and-version-example](https://github-readme-stats.vercel.app/api/pin/?username=se7en5h6&repo=spring-data-jpa-audit-and-version-example)](https://github.com/se7en5h6/spring-data-jpa-audit-and-version-example)    
+  
   
 [![https://github.com/se7en5h6/awesome-java](https://github-readme-stats.vercel.app/api/pin/?username=se7en5h6&repo=awesome-java)](https://github.com/se7en5h6/awesome-java)
   
