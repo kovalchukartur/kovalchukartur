@@ -25,8 +25,13 @@
 
   [![](https://github-readme-stats.vercel.app/api/pin/?username=renovatebot&repo=renovate)](https://github.com/renovatebot/renovate)
   
+  [![](https://github-readme-stats.vercel.app/api/pin/?username=deepjavalibrary&repo=djl)](https://github.com/deepjavalibrary/djl)
+  
+  [![](https://github-readme-stats.vercel.app/api/pin/?username=se7en5h6&repo=ShedLock)](https://github.com/se7en5h6/ShedLock)
+  
   [![](https://github-readme-stats.vercel.app/api/pin/?username=se7en5h6&repo=ShedLock)](https://github.com/se7en5h6/ShedLock)
   
   [![](https://github-readme-stats.vercel.app/api/pin/?username=se7en5h6&repo=ShedLock)](https://github.com/se7en5h6/ShedLock)
   
+  [![](https://github-readme-stats.vercel.app/api/pin/?username=se7en5h6&repo=ShedLock)](https://github.com/se7en5h6/ShedLock)
 </details>
