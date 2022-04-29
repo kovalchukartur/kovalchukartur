@@ -1,5 +1,4 @@
 <details>
-  
   <summary>Repositories</summary>
   <br>
   
@@ -48,5 +47,17 @@
   [![](https://github-readme-stats.vercel.app/api/pin/?username=mhadidg&repo=software-architecture-books)](https://github.com/mhadidg/software-architecture-books)
   
   [![](https://github-readme-stats.vercel.app/api/pin/?username=se7en5h6&repo=ShedLock)](https://github.com/se7en5h6/ShedLock)
+  
+</details>
+
+
+
+<details>
+  
+  <summary>Link</summary>
+  <br>
+  
+https://github.com/joelparkerhenderson/architecture-decision-record
+https://github.com/se7en5h6/awesome-falsehood
   
 </details>
