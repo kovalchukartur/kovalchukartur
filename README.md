@@ -68,5 +68,32 @@ https://github.com/cristaloleg/awesome-manifesto
 https://github.com/getify/You-Dont-Know-JS
   
 https://github.com/kamranahmedse/developer-roadmap
+
+https://github.com/diffplug/spotless
   
+https://github.com/sindresorhus/awesome
+
+https://github.com/vasilievip/meters-automation
+  
+https://github.com/dodie/scott
+
+https://github.com/timgifford/maven-buildtime-extension
+  
+https://github.com/tdanylchuk/functional-tests-best-practices
+  
+https://github.com/lanwen/wiremock-junit5
+  
+https://github.com/tchapi/markdown-cheatsheet
+  
+https://github.com/wagoodman/dive
+  
+https://github.com/practical-tutorials/project-based-learning
+
+https://github.com/Netflix/concurrency-limits
+  
+https://github.com/iluwatar/java-design-patterns
+  
+https://github.com/spring-cloud-samples/spring-cloud-contract-samples
+  
+https://www.swyx.io/github-scraping  
 </details>
