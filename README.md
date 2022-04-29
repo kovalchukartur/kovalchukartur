@@ -59,5 +59,6 @@
   
 https://github.com/joelparkerhenderson/architecture-decision-record
 https://github.com/se7en5h6/awesome-falsehood
+https://github.com/leonardolemie/clean-code-java
   
 </details>
