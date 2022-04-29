@@ -65,4 +65,6 @@ https://github.com/leonardolemie/clean-code-java
 
 https://github.com/cristaloleg/awesome-manifesto
   
+https://github.com/getify/You-Dont-Know-JS
+  
 </details>
