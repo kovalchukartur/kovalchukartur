@@ -95,5 +95,7 @@ https://github.com/iluwatar/java-design-patterns
   
 https://github.com/spring-cloud-samples/spring-cloud-contract-samples
   
+https://github.com/codecentric/spring-boot-admin
+  
 https://www.swyx.io/github-scraping  
 </details>
