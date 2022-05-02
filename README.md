@@ -12,6 +12,9 @@
   [![](https://github-readme-stats.vercel.app/api/pin/?username=restfulapi&repo=api-strategy)](https://github.com/restfulapi/api-strategy)
   
   [![](https://github-readme-stats.vercel.app/api/pin/?username=se7en5h6&repo=java-design-patterns)](https://github.com/se7en5h6/java-design-patterns)
+  
+  [![](https://github-readme-stats.vercel.app/api/pin/?username=mhadidg&repo=software-architecture-books)](https://github.com/mhadidg/software-architecture-books)
+  
 </details>  
   
 
@@ -50,8 +53,6 @@
   [![](https://github-readme-stats.vercel.app/api/pin/?username=crowdcode-de&repo=spring-cloud-performance-tuning)](https://github.com/crowdcode-de/spring-cloud-performance-tuning)
   
   [![](https://github-readme-stats.vercel.app/api/pin/?username=rohitghatol&repo=spring-boot-microservices)](https://github.com/rohitghatol/spring-boot-microservices)
-  
-  [![](https://github-readme-stats.vercel.app/api/pin/?username=mhadidg&repo=software-architecture-books)](https://github.com/mhadidg/software-architecture-books)
   
   [![](https://github-readme-stats.vercel.app/api/pin/?username=se7en5h6&repo=ShedLock)](https://github.com/se7en5h6/ShedLock)
   
