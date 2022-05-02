@@ -19,7 +19,7 @@
   
 
 <details>
-  <summary>Repositories</summary>
+  <summary>Everything else</summary>
   <br>
  
   [![](https://github-readme-stats.vercel.app/api/pin/?username=donnemartin&repo=system-design-primer)](https://github.com/donnemartin/system-design-primer)
