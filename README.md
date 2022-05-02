@@ -1,20 +1,27 @@
 <details>
-  <summary>Repositories</summary>
+  <summary>Base knowledge</summary>
   <br>
-  
-  [![](https://github-readme-stats.vercel.app/api/pin/?username=se7en5h6&repo=awesome-falsehood)](https://github.com/se7en5h6/awesome-falsehood)
+   
   
   [![](https://github-readme-stats.vercel.app/api/pin/?username=danistefanovic&repo=build-your-own-x)](https://github.com/danistefanovic/build-your-own-x)
-  
+ 
+  [![](https://github-readme-stats.vercel.app/api/pin/?username=se7en5h6&repo=awesome-falsehood)](https://github.com/se7en5h6/awesome-falsehood)
+
   [![](https://github-readme-stats.vercel.app/api/pin/?username=mre&repo=the-coding-interview)](https://github.com/mre/the-coding-interview)
   
   [![](https://github-readme-stats.vercel.app/api/pin/?username=restfulapi&repo=api-strategy)](https://github.com/restfulapi/api-strategy)
+  
+  [![](https://github-readme-stats.vercel.app/api/pin/?username=se7en5h6&repo=java-design-patterns)](https://github.com/se7en5h6/java-design-patterns)
+</details>  
+  
+
+<details>
+  <summary>Repositories</summary>
+  <br>
  
   [![](https://github-readme-stats.vercel.app/api/pin/?username=donnemartin&repo=system-design-primer)](https://github.com/donnemartin/system-design-primer)
 
   [![](https://github-readme-stats.vercel.app/api/pin/?username=se7en5h6&repo=awesome-java)](https://github.com/se7en5h6/awesome-java)
-
-  [![](https://github-readme-stats.vercel.app/api/pin/?username=se7en5h6&repo=java-design-patterns)](https://github.com/se7en5h6/java-design-patterns)
 
   [![](https://github-readme-stats.vercel.app/api/pin/?username=se7en5h6&repo=spring-data-jpa-audit-and-version-example)](https://github.com/se7en5h6/spring-data-jpa-audit-and-version-example)    
   
