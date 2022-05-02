@@ -62,7 +62,7 @@
 
 <details>
   
-  <summary>Link</summary>
+  <summary>Everything else [1]</summary>
   <br>
   
 https://github.com/joelparkerhenderson/architecture-decision-record
