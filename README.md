@@ -1,5 +1,5 @@
 <details>
-  <summary>Base knowledge</summary>
+  <summary>Base</summary>
   <br>
    
   
