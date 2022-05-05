@@ -112,7 +112,7 @@ https://www.swyx.io/github-scraping
 
 <details>
   
-  <summary>HTML + CSS</summary>
+  <summary>HTML & CSS</summary>
   <br>
   
 https://github.com/CyberLight/caninclude-v2
