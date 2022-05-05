@@ -116,6 +116,12 @@ https://www.swyx.io/github-scraping
   <br>
   
 https://github.com/CyberLight/caninclude-v2
+  
+https://coderstoolbox.net/network/bandwidth.php
+
+https://toolbox.googleapps.com/apps/har_analyzer/
+
+https://developer.chrome.com/docs/devtools/network/reference/#timing
 </details>
 
 
@@ -128,4 +134,6 @@ https://github.com/CyberLight/caninclude-v2
 https://www.depesz.com/2013/04/16/explaining-the-unexplainable/
   
 https://www.depesz.com/2013/04/27/explaining-the-unexplainable-part-2
+  
+https://explain.depesz.com/
 </details>
