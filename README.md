@@ -137,3 +137,13 @@ https://www.depesz.com/2013/04/27/explaining-the-unexplainable-part-2
   
 https://explain.depesz.com/
 </details>
+
+
+<details>
+  
+  <summary>Glossary</summary>
+  <br>
+  
+https://www.appsflyer.com/glossary/daily-active-users/
+
+</details>
