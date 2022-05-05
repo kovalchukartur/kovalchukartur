@@ -117,3 +117,14 @@ https://www.swyx.io/github-scraping
   
 https://github.com/CyberLight/caninclude-v2
 </details>
+
+
+
+<details>
+  
+  <summary>SQL</summary>
+  <br>
+  
+https://www.depesz.com/2013/04/16/explaining-the-unexplainable/
+https://www.depesz.com/2013/04/27/explaining-the-unexplainable-part-2
+</details>
