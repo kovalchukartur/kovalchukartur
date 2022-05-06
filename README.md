@@ -162,3 +162,12 @@ https://github.com/itfsw/QueryBuilder
 
 </details>
 
+
+<details>
+  
+  <summary>Lessons</summary>
+  <br>
+  
+https://github.com/allenGKC/Just-Javascript-Reading-Notes
+
+</details>
