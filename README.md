@@ -138,6 +138,8 @@ https://www.depesz.com/2013/04/27/explaining-the-unexplainable-part-2
 https://explain.depesz.com/
   
 https://learnsql.com/blog/real-life-business-use-sql-cte/
+  
+https://stackoverflow.com/questions/1912095/how-to-insert-a-value-that-contains-an-apostrophe-single-quote
 </details>
 
 
