@@ -136,6 +136,8 @@ https://www.depesz.com/2013/04/16/explaining-the-unexplainable/
 https://www.depesz.com/2013/04/27/explaining-the-unexplainable-part-2
   
 https://explain.depesz.com/
+  
+https://learnsql.com/blog/real-life-business-use-sql-cte/
 </details>
 
 
