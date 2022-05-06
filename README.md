@@ -151,3 +151,14 @@ https://stackoverflow.com/questions/1912095/how-to-insert-a-value-that-contains-
 https://www.appsflyer.com/glossary/daily-active-users/
 
 </details>
+
+
+<details>
+  
+  <summary>Java</summary>
+  <br>
+  
+https://github.com/itfsw/QueryBuilder
+
+</details>
+
