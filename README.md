@@ -171,9 +171,15 @@ https://github.com/itfsw/QueryBuilder
 
 <details>
   
-  <summary>Lessons</summary>
+  <summary>Lessons & Books</summary>
   <br>
   
 https://github.com/allenGKC/Just-Javascript-Reading-Notes
+https://github.com/hackerkid/Mind-Expanding-Books
+https://github.com/v2-dev/awesome-social-engineering
+https://github.com/ContextLab/human-memory
+https://github.com/VGraupera/manager-resources
+https://github.com/icyflame/awesome-social-science
+https://github.com/weeeBox/awesome-psychology
 
 </details>
