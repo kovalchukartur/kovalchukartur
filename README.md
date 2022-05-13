@@ -198,3 +198,13 @@ https://github.com/weeeBox/awesome-psychology
 https://instantusername.com/#/
 
 </details>
+
+
+<details>
+  
+  <summary>Code</summary>
+  <br>
+  
+Martin Fowler - Refactoring: Improving the Design of Existing Code
+
+</details>
