@@ -137,6 +137,17 @@ https://github.com/Jamakase/OpenAPI-Specification
 https://github.com/tailwindlabs/headlessui
   
 https://github.com/fingerprintjs/fingerprintjs
+  
+https://github.com/single-spa/single-spa
+  
+https://github.com/brillout/awesome-react-components
+  
+https://github.com/tannerlinsley/react-query
+  
+https://github.com/ant-design/ant-design-pro
+
+https://github.com/streamich/react-use
+  
 </details>
 
 <details>
