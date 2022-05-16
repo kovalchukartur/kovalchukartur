@@ -15,6 +15,10 @@
  https://github.com/mhadidg/software-architecture-books
   
  https://github.com/GorvGoyl/Clone-Wars
+ 
+ https://github.com/katopz/best-practices
+  
+ https://github.com/prakhar1989/awesome-courses
   
 </details>  
   
