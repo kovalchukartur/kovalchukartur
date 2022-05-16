@@ -1,19 +1,20 @@
 <details>
   <summary>Base</summary>
   <br>
-   
-  
-  [![](https://github-readme-stats.vercel.app/api/pin/?username=danistefanovic&repo=build-your-own-x)](https://github.com/danistefanovic/build-your-own-x)
+    
+ https://github.com/danistefanovic/build-your-own-x
  
-  [![](https://github-readme-stats.vercel.app/api/pin/?username=se7en5h6&repo=awesome-falsehood)](https://github.com/se7en5h6/awesome-falsehood)
+ https://github.com/se7en5h6/awesome-falsehood
 
-  [![](https://github-readme-stats.vercel.app/api/pin/?username=mre&repo=the-coding-interview)](https://github.com/mre/the-coding-interview)
+ https://github.com/mre/the-coding-interview
   
-  [![](https://github-readme-stats.vercel.app/api/pin/?username=restfulapi&repo=api-strategy)](https://github.com/restfulapi/api-strategy)
+ https://github.com/restfulapi/api-strategy
   
-  [![](https://github-readme-stats.vercel.app/api/pin/?username=se7en5h6&repo=java-design-patterns)](https://github.com/se7en5h6/java-design-patterns)
+ https://github.com/se7en5h6/java-design-patterns
   
-  [![](https://github-readme-stats.vercel.app/api/pin/?username=mhadidg&repo=software-architecture-books)](https://github.com/mhadidg/software-architecture-books)
+ https://github.com/mhadidg/software-architecture-books
+  
+ https://github.com/GorvGoyl/Clone-Wars
   
 </details>  
   
