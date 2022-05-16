@@ -135,6 +135,8 @@ https://github.com/Jamakase/react-boilerplate
 https://github.com/Jamakase/OpenAPI-Specification
   
 https://github.com/tailwindlabs/headlessui
+  
+https://github.com/fingerprintjs/fingerprintjs
 </details>
 
 <details>
